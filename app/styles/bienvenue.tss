@@ -1,0 +1,17 @@
+".win2container":{
+	backgroundColor:"black"
+},
+"#bienvenue2":{
+	top : 0,
+	width : "100%",
+	height : 200
+}
+"#texte":{
+	backgroundColor:"white",
+	width:"90%",
+	height:50,
+	top:290,
+	left:"5%",
+	padding:20,
+	textAlign:"center"
+}

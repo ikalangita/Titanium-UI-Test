@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class = "win2container">
+		<ImageView id = "bienvenue2" image="/images/f_logo.jpg"></ImageView>
+		<View id="texte" onClick="showTable">
+			<Label text="Afficher la liste" ></Label>
+		</View>
+	</Window>
+</Alloy>

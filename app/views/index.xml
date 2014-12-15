@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id = "actor" image="/images/f_logo.jpg"></ImageView>
+		<Label id = "bienvenue" onClick="bClick"> Bienvenue </Label>
+		<Label id = "apropos" onClick="aClick"> A propos </Label>
+	</Window>
+</Alloy>
